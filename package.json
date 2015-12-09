@@ -22,7 +22,9 @@
     "hubot-thesimpsons": ">= 0.0.0",
     "hubot-thank-you": "0.0.3",
     "hubot-victory": ">= 0.0.0",
-    "hubot-youtube": "^1.0.1"
+    "hubot-youtube": "^1.0.1",
+    "htmlparser": "^1.7.6",
+    "soupselect": "^0.2.0"
   },
   "engines": {
     "node": "0.10.x"
