@@ -22,7 +22,6 @@
 #   hubot memegen Yo dawg <text> so <text> - Generates Yo Dawg
 #   hubot memegen ALL YOUR <text> ARE BELONG TO US - Generates Zero Wing with the caption of <text>
 #   hubot memegen if <text>, <word that can start a question> <text>? - Generates Philosoraptor
-#   hubot memegen <text> FUCK YOU - Angry Linus
 #   hubot memegen (Oh|You) <text> (Please|Tell) <text> - Willy Wonka
 #   hubot memegen <text> you're gonna have a bad time - Bad Time Ski Instructor
 #   hubot memegen one does not simply <text> - Lord of the Rings Boromir
@@ -91,11 +90,6 @@ module.exports = (robot) ->
         regex: /(memegen )?(ALL YOUR .*) (ARE BELONG TO US)/i,
         generatorID: 349058,
         imageID: 2079825
-      },
-      {
-        regex: /(memegen )?(.*) (FUCK YOU)/i,
-        generatorID: 1189472,
-        imageID: 5044147
       },
       {
         regex: /(memegen )?(.*) (You'?re gonna have a bad time)/i,
