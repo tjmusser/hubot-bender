@@ -41,7 +41,7 @@ module.exports = (robot) ->
   robot.hear /^had something for this/i, (msg) ->
     msg.reply "I swear to god I had something for this."  
     
-  robot.hear /^superviser/i, (msg) ->
+  robot.hear /^supervisor/i, (msg) ->
     msg.send "https://s-media-cache-ak0.pinimg.com/736x/a8/7d/0d/a87d0daee020b2c0b0d36c8a2fd3fac2.jpg"   
     
   robot.hear /^uhh phrasing/i, (msg) ->
