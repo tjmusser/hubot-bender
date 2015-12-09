@@ -50,6 +50,9 @@ module.exports = (robot) ->
 
   robot.hear /.*(don'?t want to live).*/i, (msg) ->
     msg.send "http://i0.kym-cdn.com/photos/images/newsfeed/000/126/314/3cd8a33a.png"
+    
+  robot.hear /.*(code is bad).*/i, (msg) ->
+    msg.send "http://d2ws0xxnnorfdo.cloudfront.net/meme/531707"  
 
   robot.hear /shut up and take my money/i, (msg) ->
     msg.send "http://i.imgur.com/QlmfC.jpg"
