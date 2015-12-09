@@ -12,7 +12,7 @@
 # Author:
 #   rrix
 
-scraper = require 'scraper'
+scraper = require('scraper')
 
 module.exports = (robot) ->
 
