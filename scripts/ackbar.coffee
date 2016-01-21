@@ -17,7 +17,6 @@ ackbars = [
   "http://i.imgur.com/OTByx1b.jpg",
   "http://farm4.static.flickr.com/3572/3637082894_e23313f6fb_o.jpg",
   "http://6.asset.soup.io/asset/0610/8774_242b_500.jpeg",
-  "http://files.g4tv.com/ImageDb3/279875_S/steampunk-ackbar.jpg",
   "http://farm6.staticflickr.com/5126/5725607070_b80e61b4b3_z.jpg",
   "http://farm6.static.flickr.com/5291/5542027315_ba79daabfb.jpg",
   "http://farm6.staticflickr.com/5250/5216539895_09f963f448_z.jpg",

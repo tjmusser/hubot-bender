@@ -26,13 +26,13 @@ module.exports = (robot) ->
   robot.hear /.*(archer).*/i, (msg) ->
     msg.send msg.random archers
 
-  robot.hear /^loggin/i, (msg) ->
+  robot.hear /.*(loggins).*/i, (msg) ->
     msg.reply "call Kenny Loggins, 'cuz you're in the DANGER ZONE."
 
-  robot.hear /^sitting down/i, (msg) ->
+  robot.hear /.*(sitting down).*/i, (msg) ->
     msg.reply "What?! At the table? Look, he thinks he's people!"
     
-  robot.hear /^ants/i, (msg) ->
+  robot.hear /.*(ants).*/i, (msg) ->
     msg.reply "Do you want ants? Because that's how you get ants."
     
   robot.hear /.*(jazz hands).*/i, (msg) ->
