@@ -13,5 +13,8 @@
   "hubot-thesimpsons",
   "hubot-thank-you",
   "hubot-victory",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-plusplus",
+  "hubot-mute",
+  "hubot-auth"
 ]

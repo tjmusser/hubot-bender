@@ -6,6 +6,7 @@
   "description": "Bite my shiny metal ...",
   "dependencies": {
     "hubot": "^2.17.0",
+    "hubot-auth": "^1.2.0",
     "hubot-business-cat": "^1.4.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -13,6 +14,8 @@
     "hubot-help": "^0.1.2",
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-maps": "0.0.2",
+    "hubot-mute": "*",
+    "hubot-plusplus": "^1.2.3",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
