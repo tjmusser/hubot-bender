@@ -49,5 +49,3 @@ module.exports = (robot) ->
     
   robot.hear /.*(danger zone).*/i, (msg) -> 
     msg.send "http://3.bp.blogspot.com/-IW72IpIeuCk/UYUyU2XQ4NI/AAAAAAAACFQ/yPtQY3rNT94/s1600/archer-danger-zone-meme-generator-call-kenny-loggins-coz-you-re-in-the-danger-zone-d319a5%5B1%5D.jpg"
-
-  
